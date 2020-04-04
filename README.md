@@ -1,4 +1,4 @@
-# ISS-Tracker-Program
+# CLI BASED ISS-Tracker-Program
 This program is a python api-client that tracks the ISS (International space spation) coordinates.
 
 It tracks the ISS from a public API(http://api.open-notify.org/iss-now.json), parses the json format to text, and displays its actual coordinates in the console.
