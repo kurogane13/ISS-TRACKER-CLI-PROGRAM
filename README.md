@@ -10,7 +10,7 @@ where it appends the raw data in txt format.
 ATTACHMENTS: I am attaching the program(ISS_google_maps_v3.py), and the selenium web driver (geckodriver-v0.22.0-linux64.tar.gz) which i used to trigger selenium.
 
 1. Make sure to install all the libraries before running the program.
-2. Place the selenium webdriver in your /usr/bin/geckodriver-v0.22.0-linux64.tar.gz path
+2. Decompress the selenium webdriver geckodriver-v0.22.0-linux64.tar.gz in /usr/bin/ path (sudo tar -xvzf geckodriver-v0.22.0-linux64.tar.gz -C /usr/bin/)
 or executable path.
 3. Run the program with python 3. Tested with python3.6
 
