@@ -1,6 +1,6 @@
 # CLI BASED ISS-Tracker-Program
 
-*GUI version of the ISS tracker program - Author: Gustavo Wydler Azuaga - 04/06/2020
+*CLI version of the ISS tracker program - Author: Gustavo Wydler Azuaga - 04/06/2020
 ---------------------------------------------------------------------------------------------------------------------
 
 This program is a CLI based python api-client that tracks the ISS (International space spation) coordinates.
